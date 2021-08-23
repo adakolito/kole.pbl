@@ -1,2 +1,2 @@
 # kole.pbl
-Kole Projects
+Documenting new DevOps skills
